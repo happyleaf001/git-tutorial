@@ -3,5 +3,6 @@ hello
 - feature-A
 -FIX-b
 :WQ
+-fix-feature-c
 sadas
 
